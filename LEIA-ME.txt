@@ -1,13 +1,11 @@
-CAA Tecnologia | atualização comercial
+CAA Tecnologia | Atualização comercial e Sobre o Autor
 
-Copie todo o conteúdo desta pasta para a RAIZ do repositório CAA-Tecnologia, mantendo as pastas itil-academy-pro e service-desk.
+Atualizações:
+- Checkout ITIL Academy Pro: https://pay.hotmart.com/L108184821G
+- Checkout Service Desk na Prática: https://pay.hotmart.com/N108180989K
+- Texto de Conhecimentos e qualificações ajustado conforme solicitado.
+- Foto do autor, identidade visual e links Já sou aluno preservados.
 
-Páginas:
-https://caatecnologia.com/itil-academy-pro/
-https://caatecnologia.com/service-desk/
+Publicação: copie o CONTEÚDO desta pasta para a raiz do repositório CAA-Tecnologia, substituindo os arquivos existentes. Faça Commit to main e Push origin no GitHub Desktop.
 
-Os links de login apontam para os subdomínios existentes. Os links de checkout Hotmart NÃO foram fornecidos e, por segurança, os botões Comprar agora levam a uma seção explicativa, sem iniciar pagamento. Atualize após obter os dois links oficiais.
-
-Não é necessário alterar DNS, Cloudflare Workers ou webhooks.
-
-ATUALIZAÇÃO: seção Sobre o Autor na página inicial e página sobre-autor/index.html. Copie a pasta completa para a raiz do repositório.
+Antes de divulgar, abra os dois checkouts e confirme produto, valor e condições de pagamento.
