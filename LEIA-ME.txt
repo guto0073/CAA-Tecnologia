@@ -1,0 +1,13 @@
+CAA Tecnologia | atualização comercial
+
+Copie todo o conteúdo desta pasta para a RAIZ do repositório CAA-Tecnologia, mantendo as pastas itil-academy-pro e service-desk.
+
+Páginas:
+https://caatecnologia.com/itil-academy-pro/
+https://caatecnologia.com/service-desk/
+
+Os links de login apontam para os subdomínios existentes. Os links de checkout Hotmart NÃO foram fornecidos e, por segurança, os botões Comprar agora levam a uma seção explicativa, sem iniciar pagamento. Atualize após obter os dois links oficiais.
+
+Não é necessário alterar DNS, Cloudflare Workers ou webhooks.
+
+ATUALIZAÇÃO: seção Sobre o Autor na página inicial e página sobre-autor/index.html. Copie a pasta completa para a raiz do repositório.
